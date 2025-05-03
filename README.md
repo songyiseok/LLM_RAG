@@ -44,4 +44,4 @@ LangChain, Gemini, FAISS 벡터 검색, Gradio UI 등을 활용하여 실제 뉴
 ---
 ##  📺 프로젝트 시연 영상
 
-[![건강 AI 챗봇 시연](RAG_Chatbot.jpg)](https://youtu.be/Hblze1aClLU)
+[![건강 AI 챗봇 시연](RAG_Chatbot2.jpg)](https://youtu.be/Hblze1aClLU)
